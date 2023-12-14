@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import Modal from './Modal'
 
+
 const Contact = () => {
     return(
         <div>
